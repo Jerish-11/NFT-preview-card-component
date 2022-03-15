@@ -5,8 +5,8 @@
      Live Site URL - https://jerish-11.github.io/NFT-preview-component/
      
 # Built with
-     •	HTML
-     •	CSS
+     • HTML
+     • CSS
 
 # Author
-     •	Linkedin - https://www.linkedin.com/in/jerish-11
+     • Linkedin - https://www.linkedin.com/in/jerish-11
