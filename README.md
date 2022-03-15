@@ -1,4 +1,4 @@
-# NFT-preview-component
+# NFT-preview-card-component
      It is one of the Frontend mentor challenge that I took to improve my coding skills by building a realistic project.
 
 # Links
